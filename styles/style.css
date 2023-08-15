@@ -33,7 +33,7 @@
 }
 
 .address {
-  line-height: 135%; /*24.3px;*/
+  line-height: 135%; 
   justify-self: end;
   padding: 5px 3px 10px 0;
   font-style: normal;
